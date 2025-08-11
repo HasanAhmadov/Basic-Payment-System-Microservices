@@ -1,0 +1,12 @@
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\bin\Debug\net9.0\OrderService.Domain.deps.json
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\bin\Debug\net9.0\OrderService.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\bin\Debug\net9.0\OrderService.Domain.pdb
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.csproj.AssemblyReference.cache
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\refint\OrderService.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\OrderService.Domain.pdb
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Domain\obj\Debug\net9.0\ref\OrderService.Domain.dll

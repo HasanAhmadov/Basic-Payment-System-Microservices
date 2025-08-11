@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{212D1C48-715F-406D-8BCA-04A87A50AB96}|Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\orderservice\\orderservice.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212D1C48-715F-406D-8BCA-04A87A50AB96}|Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|solutionrelative:services\\orderservice\\orderservice.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1EB293-0D55-4092-9530-8FD4A0FBA399}|Services\\PaymentService\\PaymentService.API\\PaymentService.API.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\paymentservice\\paymentservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C1EB293-0D55-4092-9530-8FD4A0FBA399}|Services\\PaymentService\\PaymentService.API\\PaymentService.API.csproj|solutionrelative:services\\paymentservice\\paymentservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1EB293-0D55-4092-9530-8FD4A0FBA399}|Services\\PaymentService\\PaymentService.API\\PaymentService.API.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\paymentservice\\paymentservice.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1EB293-0D55-4092-9530-8FD4A0FBA399}|Services\\PaymentService\\PaymentService.API\\PaymentService.API.csproj|solutionrelative:services\\paymentservice\\paymentservice.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C46CBE5-12C6-4729-8EE5-91F469F69C0F}|Services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\paymentservice\\paymentservice.infrastructure\\paymentservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C46CBE5-12C6-4729-8EE5-91F469F69C0F}|Services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj|solutionrelative:services\\paymentservice\\paymentservice.infrastructure\\paymentservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00805F7A-9B07-4BF1-9AF2-7EB9F283800D}|Services\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\paymentservice\\paymentservice.domain\\paymentservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00805F7A-9B07-4BF1-9AF2-7EB9F283800D}|Services\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj|solutionrelative:services\\paymentservice\\paymentservice.domain\\paymentservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241F47DD-5627-4491-A7EF-EE0DAEEA17C3}|Services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\paymentservice\\paymentservice.application\\paymentservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{241F47DD-5627-4491-A7EF-EE0DAEEA17C3}|Services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj|solutionrelative:services\\paymentservice\\paymentservice.application\\paymentservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377373A1-59F2-4091-AD91-9D85E3260954}|Services\\OrderService\\OrderService.API\\OrderService.API.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\orderservice\\orderservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{377373A1-59F2-4091-AD91-9D85E3260954}|Services\\OrderService\\OrderService.API\\OrderService.API.csproj|solutionrelative:services\\orderservice\\orderservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377373A1-59F2-4091-AD91-9D85E3260954}|Services\\OrderService\\OrderService.API\\OrderService.API.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\orderservice\\orderservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377373A1-59F2-4091-AD91-9D85E3260954}|Services\\OrderService\\OrderService.API\\OrderService.API.csproj|solutionrelative:services\\orderservice\\orderservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0489B722-ED15-4E67-932E-7BEF264E3674}|Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\orderservice\\orderservice.domain\\orderservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0489B722-ED15-4E67-932E-7BEF264E3674}|Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:services\\orderservice\\orderservice.domain\\orderservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377373A1-59F2-4091-AD91-9D85E3260954}|Services\\OrderService\\OrderService.API\\OrderService.API.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\orderservice\\orderservice.api\\orderservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{377373A1-59F2-4091-AD91-9D85E3260954}|Services\\OrderService\\OrderService.API\\OrderService.API.csproj|solutionrelative:services\\orderservice\\orderservice.api\\orderservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D954266C-9B4C-4DA7-B6CF-23C124C0B3B5}|Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\orderservice\\orderservice.application\\orderservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D954266C-9B4C-4DA7-B6CF-23C124C0B3B5}|Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:services\\orderservice\\orderservice.application\\orderservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212D1C48-715F-406D-8BCA-04A87A50AB96}|Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|c:\\users\\hasan.ahmadov\\downloads\\basic-payment-system-microservices-master\\services\\orderservice\\orderservice.infrastructure\\orderservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{212D1C48-715F-406D-8BCA-04A87A50AB96}|Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|solutionrelative:services\\orderservice\\orderservice.infrastructure\\orderservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\PaymentService\\PaymentService.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\PaymentService\\PaymentService.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T13:03:22.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentService\\PaymentService.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Services\\PaymentService\\PaymentService.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:03:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T13:02:28.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.Domain",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj",
+              "RelativeDocumentMoniker": "Services\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj",
+              "RelativeToolTip": "Services\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T13:01:30.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentService.Application",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj",
+              "RelativeToolTip": "Services\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T13:00:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.API\\Program.cs",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:40:15.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:36:13.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T12:33:14.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.API",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.API\\OrderService.API.csproj",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.API\\OrderService.API.csproj",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.API\\OrderService.API.csproj",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.API\\OrderService.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T12:24:35.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.Application",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T12:24:34.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T12:24:31.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.Domain",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T12:22:20.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAJQCAAAAAAAAAAAmwKYCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-11T12:22:50.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

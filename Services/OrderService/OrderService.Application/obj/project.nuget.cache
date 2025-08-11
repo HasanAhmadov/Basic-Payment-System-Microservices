@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6he2CHTDZ1I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan.ahmadov\\Downloads\\Basic-Payment-System-Microservices-master\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan.ahmadov\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\hasan.ahmadov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.3\\swashbuckle.aspnetcore.swagger.9.0.3.nupkg.sha512",
+    "C:\\Users\\hasan.ahmadov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.3\\swashbuckle.aspnetcore.swaggergen.9.0.3.nupkg.sha512",
+    "C:\\Users\\hasan.ahmadov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.3\\swashbuckle.aspnetcore.swaggerui.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

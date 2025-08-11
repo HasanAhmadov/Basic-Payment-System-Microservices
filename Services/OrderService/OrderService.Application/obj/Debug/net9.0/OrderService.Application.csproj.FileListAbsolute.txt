@@ -1,0 +1,17 @@
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\bin\Debug\net9.0\OrderService.Application.deps.json
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\bin\Debug\net9.0\OrderService.Application.dll
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\bin\Debug\net9.0\OrderService.Application.pdb
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\bin\Debug\net9.0\OrderService.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\bin\Debug\net9.0\OrderService.Infrastructure.dll
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\bin\Debug\net9.0\OrderService.Domain.pdb
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\bin\Debug\net9.0\OrderService.Infrastructure.pdb
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\OrderService.Application.csproj.AssemblyReference.cache
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\OrderService.Application.AssemblyInfo.cs
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\OrderSer.7EAAA39B.Up2Date
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\OrderService.Application.dll
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\refint\OrderService.Application.dll
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\OrderService.Application.pdb
+C:\Users\hasan.ahmadov\Downloads\Basic-Payment-System-Microservices-master\Services\OrderService\OrderService.Application\obj\Debug\net9.0\ref\OrderService.Application.dll
