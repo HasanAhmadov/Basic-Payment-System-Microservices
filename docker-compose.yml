@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  orderservice:
+    build: C:/Users/hasan.ahmadov/source/repos/MicroservicesProject/OrderService
+    ports:
+      - "5001:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  paymentservice:
+    build: C:/Users/hasan.ahmadov/source/repos/MicroservicesProject/PaymentService
+    ports:
+      - "5002:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
