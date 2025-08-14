@@ -18,6 +18,8 @@
     <Folder Include="Exceptions\" />
     <Folder Include="MessageBroker\" />
     <Folder Include="Models\Enums\" />
+    <Folder Include="Data\" />
+    <Folder Include="Interfaces\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
