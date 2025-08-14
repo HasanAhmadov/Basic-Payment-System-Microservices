@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\models\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "OrderService\\Models\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:58:49.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Enums\\Status.cs",
+              "RelativeToolTip": "OrderService\\Models\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:58:38.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:58:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Program.cs",
               "RelativeDocumentMoniker": "PaymentService\\Program.cs",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Program.cs",
               "RelativeDocumentMoniker": "OrderService\\Program.cs",
@@ -59,12 +110,11 @@
               "RelativeToolTip": "OrderService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T07:49:16.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T07:49:16.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Dockerfile",
               "RelativeDocumentMoniker": "OrderService\\Dockerfile",
@@ -72,12 +122,11 @@
               "RelativeToolTip": "OrderService\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-14T07:42:09.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T07:42:09.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -85,12 +134,11 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-14T07:43:24.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T07:43:24.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Dockerfile",
               "RelativeDocumentMoniker": "PaymentService\\Dockerfile",
@@ -98,12 +146,11 @@
               "RelativeToolTip": "PaymentService\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-14T07:43:04.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T07:43:04.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "OrderService\\Controllers\\HomeController.cs",
@@ -111,8 +158,7 @@
               "RelativeToolTip": "OrderService\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T05:24:46.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T05:24:46.11Z"
             }
           ]
         }
