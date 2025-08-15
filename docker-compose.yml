@@ -1,16 +1,53 @@
 version: '3.9'
-
 services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:latest
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+
+  kafka:
+    image: confluentinc/cp-kafka:7.4.0  # Using a specific version that doesn't require KRaft
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:29092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "YourStrong@Passw0rd"
+      ACCEPT_EULA: "Y"
+
   orderservice:
-    build: C:/Users/hasan.ahmadov/source/repos/MicroservicesProject/OrderService
+    build: ./OrderService  # Changed to relative path
     ports:
       - "5001:80"
+    depends_on:
+      - kafka
+      - sqlserver
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=OrderServiceDb;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=true
+      - Kafka__BootstrapServers=kafka:9092
 
   paymentservice:
-    build: C:/Users/hasan.ahmadov/source/repos/MicroservicesProject/PaymentService
+    build: ./PaymentService  # Changed to relative path
     ports:
       - "5002:80"
+    depends_on:
+      - kafka
+      - sqlserver
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=PaymentServiceDb;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=true
+      - Kafka__BootstrapServers=kafka:9092

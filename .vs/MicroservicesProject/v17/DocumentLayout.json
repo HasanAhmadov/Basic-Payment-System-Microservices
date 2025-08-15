@@ -3,8 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\services\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\services\\messagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\messagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\messagebroker\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\messagebroker\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\messagebroker\\kafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\messagebroker\\kafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\interfaces\\ikafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\interfaces\\ikafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\interfaces\\imessagingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\interfaces\\imessagingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\interfaces\\imessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\interfaces\\imessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\interfaces\\iorderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\interfaces\\iorderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\messagebroker\\kafkaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\messagebroker\\kafkaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\services\\messagingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\messagingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\exceptions\\httpresponseexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\paymenteventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\models\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,20 +111,8 @@
       "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +122,258 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:04:51.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Data\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderService\\Data\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Data\\OrderRepository.cs",
+              "RelativeToolTip": "OrderService\\Data\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:39:16.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-14T07:43:24.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OrderService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:37:33.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Dockerfile",
+              "RelativeDocumentMoniker": "OrderService\\Dockerfile",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Dockerfile",
+              "RelativeToolTip": "OrderService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-14T07:42:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KafkaPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaPublisher.cs",
+              "RelativeDocumentMoniker": "OrderService\\MessageBroker\\KafkaPublisher.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaPublisher.cs",
+              "RelativeToolTip": "OrderService\\MessageBroker\\KafkaPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:49:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "OrderService\\MessageBroker\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaConsumer.cs",
+              "RelativeToolTip": "OrderService\\MessageBroker\\KafkaConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:50:07.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:58:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OrderDataService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\OrderDataService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\OrderDataService.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\OrderDataService.cs",
+              "RelativeToolTip": "OrderService\\Services\\OrderDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:43:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagingService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\MessagingService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\MessagingService.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\MessagingService.cs",
+              "RelativeToolTip": "OrderService\\Services\\MessagingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:45:20.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:49:16.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T10:57:40.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IKafkaPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IKafkaPublisher.cs",
+              "RelativeDocumentMoniker": "OrderService\\Interfaces\\IKafkaPublisher.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IKafkaPublisher.cs",
+              "RelativeToolTip": "OrderService\\Interfaces\\IKafkaPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:48:42.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMessagingDataService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IMessagingDataService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Interfaces\\IMessagingDataService.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IMessagingDataService.cs",
+              "RelativeToolTip": "OrderService\\Interfaces\\IMessagingDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:46:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMessagingService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IMessagingService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Interfaces\\IMessagingService.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IMessagingService.cs",
+              "RelativeToolTip": "OrderService\\Interfaces\\IMessagingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:44:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderDataService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IOrderDataService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Interfaces\\IOrderDataService.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IOrderDataService.cs",
+              "RelativeToolTip": "OrderService\\Interfaces\\IOrderDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:43:02.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderService\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderService\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:38:38.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KafkaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaConfiguration.cs",
+              "RelativeDocumentMoniker": "OrderService\\MessageBroker\\KafkaConfiguration.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaConfiguration.cs",
+              "RelativeToolTip": "OrderService\\MessageBroker\\KafkaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:48:06.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MessagingDataService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\MessagingDataService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\MessagingDataService.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\MessagingDataService.cs",
+              "RelativeToolTip": "OrderService\\Services\\MessagingDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:46:53.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "HttpResponseExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Exceptions\\HttpResponseExceptionFilter.cs",
               "RelativeDocumentMoniker": "OrderService\\Exceptions\\HttpResponseExceptionFilter.cs",
@@ -83,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "PaymentEventDTOConversionException.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Exceptions\\PaymentEventDTOConversionException.cs",
               "RelativeDocumentMoniker": "OrderService\\Exceptions\\PaymentEventDTOConversionException.cs",
@@ -96,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "OrderNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Exceptions\\OrderNotFoundException.cs",
               "RelativeDocumentMoniker": "OrderService\\Exceptions\\OrderNotFoundException.cs",
@@ -109,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "PaymentEventDTO.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\DTOs\\PaymentEventDTO.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\PaymentEventDTO.cs",
@@ -122,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "InvalidPaymentEventDTOInputException.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Exceptions\\InvalidPaymentEventDTOInputException.cs",
               "RelativeDocumentMoniker": "OrderService\\Exceptions\\InvalidPaymentEventDTOInputException.cs",
@@ -135,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "PaymentStatus.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Enums\\PaymentStatus.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Enums\\PaymentStatus.cs",
@@ -143,11 +446,12 @@
               "RelativeToolTip": "OrderService\\Models\\Enums\\PaymentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T09:58:49.061Z"
+              "WhenOpened": "2025-08-14T09:58:49.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Enums\\Status.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Enums\\Status.cs",
@@ -155,24 +459,12 @@
               "RelativeToolTip": "OrderService\\Models\\Enums\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T09:58:38.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Order.cs",
-              "RelativeToolTip": "OrderService\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T09:58:07.702Z",
+              "WhenOpened": "2025-08-14T09:58:38.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Program.cs",
               "RelativeDocumentMoniker": "PaymentService\\Program.cs",
@@ -180,48 +472,12 @@
               "RelativeToolTip": "PaymentService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T07:49:21.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Program.cs",
-              "RelativeDocumentMoniker": "OrderService\\Program.cs",
-              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Program.cs",
-              "RelativeToolTip": "OrderService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T07:49:16.427Z",
+              "WhenOpened": "2025-08-14T07:49:21.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Dockerfile",
-              "RelativeDocumentMoniker": "OrderService\\Dockerfile",
-              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Dockerfile",
-              "RelativeToolTip": "OrderService\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-14T07:42:09.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-14T07:43:24.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Dockerfile",
               "RelativeDocumentMoniker": "PaymentService\\Dockerfile",
@@ -229,19 +485,8 @@
               "RelativeToolTip": "PaymentService\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-14T07:43:04.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OrderService\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OrderService\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T05:24:46.11Z"
+              "WhenOpened": "2025-08-14T07:43:04.326Z",
+              "EditorCaption": ""
             }
           ]
         }
