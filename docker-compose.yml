@@ -1,13 +1,18 @@
 version: '3.9'
+
 services:
   zookeeper:
     image: confluentinc/cp-zookeeper:latest
+    hostname: zookeeper
     environment:
       ZOOKEEPER_CLIENT_PORT: 2181
       ZOOKEEPER_TICK_TIME: 2000
+    networks:
+      - kafka-network
 
   kafka:
-    image: confluentinc/cp-kafka:7.4.0  # Using a specific version that doesn't require KRaft
+    image: confluentinc/cp-kafka:7.4.0
+    hostname: kafka
     depends_on:
       - zookeeper
     ports:
@@ -15,39 +20,69 @@ services:
     environment:
       KAFKA_BROKER_ID: 1
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
-      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:29092
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:29092,PLAINTEXT_HOST://0.0.0.0:9092
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+    healthcheck:
+      test: ["CMD", "kafka-topics", "--bootstrap-server", "kafka:29092", "--list"]
+      interval: 10s
+      timeout: 10s
+      retries: 10
+    networks:
+      - kafka-network
 
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2022-latest
+    hostname: sqlserver
     ports:
       - "1433:1433"
     environment:
       SA_PASSWORD: "YourStrong@Passw0rd"
       ACCEPT_EULA: "Y"
+    networks:
+      - kafka-network
 
   orderservice:
-    build: ./OrderService  # Changed to relative path
+    build: ./OrderService
     ports:
       - "5001:80"
     depends_on:
-      - kafka
-      - sqlserver
+      kafka:
+        condition: service_healthy
+      sqlserver:
+        condition: service_started
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=OrderServiceDb;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=true
-      - Kafka__BootstrapServers=kafka:9092
+      - Kafka__BootstrapServers=kafka:29092
+      - Kafka__OrderTopic=order-events
+      - Kafka__PaymentTopic=payment-events
+      - Kafka__GroupId=order-service-group
+    networks:
+      - kafka-network
 
   paymentservice:
-    build: ./PaymentService  # Changed to relative path
+    build: ./PaymentService
     ports:
       - "5002:80"
     depends_on:
-      - kafka
-      - sqlserver
+      kafka:
+        condition: service_healthy
+      sqlserver:
+        condition: service_started
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=PaymentServiceDb;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=true
-      - Kafka__BootstrapServers=kafka:9092
+      - Kafka__BootstrapServers=kafka:29092
+      - Kafka__OrderTopic=order-events
+      - Kafka__PaymentTopic=payment-events
+      - Kafka__GroupId=payment-service-group
+    networks:
+      - kafka-network
+
+networks:
+  kafka-network:
+    driver: bridge

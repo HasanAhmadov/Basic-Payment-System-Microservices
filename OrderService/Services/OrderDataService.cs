@@ -1,6 +1,8 @@
 ﻿using OrderService.Exceptions;
 using OrderService.Interfaces;
 using OrderService.Models;
+using OrderService.DTOs;
+using OrderService.Models.Enums;
 
 namespace OrderService.Services
 {
@@ -56,6 +58,18 @@ namespace OrderService.Services
                 throw new OrderNotFoundException("Order with such ID is not found!");
             }
             await _orderRepository.DeleteByIdAsync(id);
+        }
+
+        // NEW METHOD: Update order status after receiving payment event
+        public async Task UpdateOrderStatusFromPaymentAsync(PaymentEventDTO paymentEventDTO)
+        {
+            var order = await _orderRepository.FindByIdAsync(paymentEventDTO.OrderID);
+            if (order != null)
+            {
+                order.Status = Status.CONFIRMED; // or your enum/value for confirmed
+                order.PaymentStatus = paymentEventDTO.PaymentStatus; // PAID or FAILED
+                await _orderRepository.SaveAsync(order);
+            }
         }
     }
 }
