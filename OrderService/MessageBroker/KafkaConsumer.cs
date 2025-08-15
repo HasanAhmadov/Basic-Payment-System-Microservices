@@ -25,7 +25,7 @@ namespace OrderService.MessageBroker
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            // Add delay to let app start first
+            // Delay to let app start first
             await Task.Delay(5000, stoppingToken);
 
             var config = new ConsumerConfig
@@ -40,7 +40,7 @@ namespace OrderService.MessageBroker
 
             try
             {
-                consumer.Subscribe(_kafkaConfig.OrderTopic);
+                consumer.Subscribe(_kafkaConfig.PaymentTopic); // Listen to payment events
 
                 while (!stoppingToken.IsCancellationRequested)
                 {
