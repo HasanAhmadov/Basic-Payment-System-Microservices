@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\exceptions\\httpresponseexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\exceptions\\httpresponseexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\exceptions\\paymentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\exceptions\\paymentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\exceptions\\paymenteventdtoconversionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\exceptions\\paymenteventdtoconversionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\exceptions\\invalidpaymenteventdtoinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\exceptions\\invalidpaymenteventdtoinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\dtos\\paymenteventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dtos\\paymenteventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{067A6E3B-091C-44AF-BAE7-576F392DA0C1}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0BDB97B-7084-49A2-9621-2C4B6B76E676}|OrderService\\OrderService.csproj|c:\\users\\hasan.ahmadov\\source\\repos\\microservicesproject\\orderservice\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,37 +162,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HttpResponseExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Exceptions\\HttpResponseExceptionFilter.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Exceptions\\HttpResponseExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Exceptions\\HttpResponseExceptionFilter.cs",
+              "RelativeToolTip": "PaymentService\\Exceptions\\HttpResponseExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:07:50.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Exceptions\\PaymentNotFoundException.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Exceptions\\PaymentNotFoundException.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Exceptions\\PaymentNotFoundException.cs",
+              "RelativeToolTip": "PaymentService\\Exceptions\\PaymentNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:07:20.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentEventDTOConversionException.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Exceptions\\PaymentEventDTOConversionException.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Exceptions\\PaymentEventDTOConversionException.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Exceptions\\PaymentEventDTOConversionException.cs",
+              "RelativeToolTip": "PaymentService\\Exceptions\\PaymentEventDTOConversionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:06:45.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidPaymentEventDTOInputException.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Exceptions\\InvalidPaymentEventDTOInputException.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Exceptions\\InvalidPaymentEventDTOInputException.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Exceptions\\InvalidPaymentEventDTOInputException.cs",
+              "RelativeToolTip": "PaymentService\\Exceptions\\InvalidPaymentEventDTOInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:06:00.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentEventDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\DTOs\\PaymentEventDTO.cs",
+              "RelativeDocumentMoniker": "PaymentService\\DTOs\\PaymentEventDTO.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\DTOs\\PaymentEventDTO.cs",
+              "RelativeToolTip": "PaymentService\\DTOs\\PaymentEventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:47:24.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "PaymentService\\Models\\Payment.cs",
               "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Models\\Payment.cs",
               "RelativeToolTip": "PaymentService\\Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T09:43:25.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PaymentStatus.cs",
-              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Models\\Enums\\PaymentStatus.cs",
-              "RelativeDocumentMoniker": "PaymentService\\Models\\Enums\\PaymentStatus.cs",
-              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Models\\Enums\\PaymentStatus.cs",
-              "RelativeToolTip": "PaymentService\\Models\\Enums\\PaymentStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T09:42:26.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\appsettings.json",
               "RelativeDocumentMoniker": "PaymentService\\appsettings.json",
@@ -180,12 +252,11 @@
               "RelativeToolTip": "PaymentService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-15T07:17:13.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T07:17:13.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\appsettings.Development.json",
               "RelativeDocumentMoniker": "PaymentService\\appsettings.Development.json",
@@ -193,12 +264,36 @@
               "RelativeToolTip": "PaymentService\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-15T07:17:10.384Z",
+              "WhenOpened": "2025-08-15T07:17:10.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Program.cs",
+              "RelativeToolTip": "PaymentService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:49:21.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Models\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "PaymentService\\Models\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:42:26.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\appsettings.Development.json",
               "RelativeDocumentMoniker": "OrderService\\appsettings.Development.json",
@@ -206,12 +301,11 @@
               "RelativeToolTip": "OrderService\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-15T06:55:57.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T06:55:57.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Data\\OrderRepository.cs",
               "RelativeDocumentMoniker": "OrderService\\Data\\OrderRepository.cs",
@@ -219,12 +313,11 @@
               "RelativeToolTip": "OrderService\\Data\\OrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:39:16.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T10:39:16.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Order.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
@@ -236,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "OrderDataService.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\OrderDataService.cs",
               "RelativeDocumentMoniker": "OrderService\\Services\\OrderDataService.cs",
@@ -244,12 +337,11 @@
               "RelativeToolTip": "OrderService\\Services\\OrderDataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:43:50.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T10:43:50.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "KafkaConsumer.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaConsumer.cs",
               "RelativeDocumentMoniker": "OrderService\\MessageBroker\\KafkaConsumer.cs",
@@ -261,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "KafkaPublisher.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaPublisher.cs",
               "RelativeDocumentMoniker": "OrderService\\MessageBroker\\KafkaPublisher.cs",
@@ -273,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\appsettings.json",
               "RelativeDocumentMoniker": "OrderService\\appsettings.json",
@@ -281,12 +373,11 @@
               "RelativeToolTip": "OrderService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-14T10:57:40.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T10:57:40.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "OrderService\\Data\\ApplicationDbContext.cs",
@@ -298,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -306,12 +397,11 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAABAAAAAAAAAAAAAUwCUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-14T07:43:24.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T07:43:24.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "MessagingService.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\MessagingService.cs",
               "RelativeDocumentMoniker": "OrderService\\Services\\MessagingService.cs",
@@ -323,20 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Program.cs",
-              "RelativeDocumentMoniker": "PaymentService\\Program.cs",
-              "ToolTip": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Program.cs",
-              "RelativeToolTip": "PaymentService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T07:49:21.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Dockerfile",
               "RelativeDocumentMoniker": "OrderService\\Dockerfile",
@@ -348,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Program.cs",
               "RelativeDocumentMoniker": "OrderService\\Program.cs",
@@ -360,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
@@ -372,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "IKafkaPublisher.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IKafkaPublisher.cs",
               "RelativeDocumentMoniker": "OrderService\\Interfaces\\IKafkaPublisher.cs",
@@ -384,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "IMessagingDataService.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IMessagingDataService.cs",
               "RelativeDocumentMoniker": "OrderService\\Interfaces\\IMessagingDataService.cs",
@@ -396,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "IMessagingService.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IMessagingService.cs",
               "RelativeDocumentMoniker": "OrderService\\Interfaces\\IMessagingService.cs",
@@ -408,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "IOrderDataService.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IOrderDataService.cs",
               "RelativeDocumentMoniker": "OrderService\\Interfaces\\IOrderDataService.cs",
@@ -420,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "OrderService\\Interfaces\\IOrderRepository.cs",
@@ -432,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "KafkaConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\MessageBroker\\KafkaConfiguration.cs",
               "RelativeDocumentMoniker": "OrderService\\MessageBroker\\KafkaConfiguration.cs",
@@ -444,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "MessagingDataService.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Services\\MessagingDataService.cs",
               "RelativeDocumentMoniker": "OrderService\\Services\\MessagingDataService.cs",
@@ -456,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "HttpResponseExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Exceptions\\HttpResponseExceptionFilter.cs",
               "RelativeDocumentMoniker": "OrderService\\Exceptions\\HttpResponseExceptionFilter.cs",
@@ -468,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "PaymentEventDTOConversionException.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Exceptions\\PaymentEventDTOConversionException.cs",
               "RelativeDocumentMoniker": "OrderService\\Exceptions\\PaymentEventDTOConversionException.cs",
@@ -480,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "OrderNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Exceptions\\OrderNotFoundException.cs",
               "RelativeDocumentMoniker": "OrderService\\Exceptions\\OrderNotFoundException.cs",
@@ -492,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "PaymentEventDTO.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\DTOs\\PaymentEventDTO.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\PaymentEventDTO.cs",
@@ -504,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "InvalidPaymentEventDTOInputException.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Exceptions\\InvalidPaymentEventDTOInputException.cs",
               "RelativeDocumentMoniker": "OrderService\\Exceptions\\InvalidPaymentEventDTOInputException.cs",
@@ -516,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "PaymentStatus.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Enums\\PaymentStatus.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Enums\\PaymentStatus.cs",
@@ -528,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\OrderService\\Models\\Enums\\Status.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Enums\\Status.cs",
@@ -540,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\hasan.ahmadov\\source\\repos\\MicroservicesProject\\PaymentService\\Dockerfile",
               "RelativeDocumentMoniker": "PaymentService\\Dockerfile",
