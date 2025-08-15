@@ -14,8 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Exceptions\" />
     <Folder Include="MessageBroker\" />
     <Folder Include="Data\" />
     <Folder Include="Interfaces\" />
